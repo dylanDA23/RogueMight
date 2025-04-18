@@ -1,2 +1,2 @@
 # RougeMight
-Rougelike video game coded in C#, using rougesharp library
+Roguelike video game coded in C#, using roguesharp library
